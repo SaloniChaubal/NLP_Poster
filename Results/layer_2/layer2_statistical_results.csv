@@ -1,0 +1,7 @@
+comparison,language,layer,n,formal_mean,noisy_mean,mean_difference,wilcoxon_stat,p_value
+Romanization_shift_noisy_vs_formal,Hindi,2,50,0.099329144,0.08209722,-0.01723193,215.0,1.8759072675678112e-05
+Romanization_shift_noisy_vs_formal,Hindi,6,50,0.07622649,0.06370558,-0.012520909,318.0,0.001654895925714328
+Romanization_shift_noisy_vs_formal,Hindi,12,50,0.008690041,0.006330481,-0.0023595595,135.0,1.4032918471684752e-07
+Romanization_shift_noisy_vs_formal,Marathi,2,50,0.1141067,0.100624666,-0.013482029,293.0,0.0006457255474483503
+Romanization_shift_noisy_vs_formal,Marathi,6,50,0.08916044,0.08308834,-0.0060721026,446.0,0.064886242135481
+Romanization_shift_noisy_vs_formal,Marathi,12,50,0.009137707,0.00800286,-0.0011348474,282.0,0.0004153236253312542
